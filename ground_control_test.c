@@ -4,8 +4,9 @@
  *
  *  Created On: Jan 20, 2017
  *      Author(s): Brandon Klefman
+ *                 Chris Kline
  *
- *      Purpose: Flight computer for the APOPHIS platform.
+ *      Purpose: Ground Motor control test. 
  *
  */
 
